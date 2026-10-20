@@ -13,11 +13,24 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 - [Supabase](https://github.com/supabase/agent-skills): Supabase and Postgres best practices
 - [Remotion](https://www.remotion.dev/docs/ai/skills): make videos in React
 
-## Other tools
+## Tools I use
+
+- [Aside](https://aside.com): AI browser that does the work for me, like job applications, outreach emails, event RSVPs, and research. Feels like the missing step to what AI can actually do for you ($0 with an existing AI subscription)
+- [Gamma](https://gamma.app): AI presentation builder, my last semester of university depended on it
+- [Reve](https://app.reve.com): images and graphics that don't look like AI slop
+- [Motion.so](https://motion.so): AI for motion graphics, better than Hyperframes or Remotion (a bit pricey)
+- [Monid](https://monid.ai): one API key for everything you'd want an agent to do
+- [Google AI Studio](https://aistudio.google.com): a bit janky, but tons of control over image and video generation
+
+## Other cool tools
 
 - [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): figure out how any app's features work and rebuild them
-  
-## Skills I have written - Steal them!
+- [Caveman](https://github.com/JuliusBrussee/caveman): makes your coding agent talk like a caveman to save tokens
+- [AI Job Search](https://github.com/MadsLorentzen/ai-job-search): Claude Code workflow that finds jobs, tailors your CV and cover letter, and preps you for interviews
+
+## Skills I've written
+
+Everything in this repo's folders is a skill I wrote myself.
 
 ### Frontend
 
