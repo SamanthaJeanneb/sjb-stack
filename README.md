@@ -22,11 +22,43 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 - [Monid](https://monid.ai): one API key for everything you'd want an agent to do
 - [Google AI Studio](https://aistudio.google.com): a bit janky, but tons of control over image and video generation
 
+## Automations
+
+### Automations I run
+
+- **Instagram comment-to-DM** (Aside routine): checks my reels every 20 min and DMs the links to anyone who comments the keyword
+
+### Platforms
+
+- [n8n](https://n8n.io): open-source workflow automation with AI agents, self-hostable
+- [Zapier](https://zapier.com): connect 8,000+ apps, no code
+- [Make](https://www.make.com): visual automation builder, cheap
+- [OpenClaw](https://openclaw.ai): open-source AI assistant that runs 24/7 and handles your inbox, calendar, and tasks from WhatsApp or Telegram
+- [ManyChat](https://manychat.com): Instagram comment-to-DM and DM funnels
+
+### Viral automation repos
+
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): makes short videos from a topic or keyword
+- [OpenMontage](https://github.com/calesthio/OpenMontage): open-source AI video production pipeline
+- [YouTube Automation Agent](https://github.com/darkzOGx/youtube-automation-agent): runs a YouTube channel end to end, from scripts to publishing
+
 ## Other cool tools
 
 - [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): figure out how any app's features work and rebuild them
 - [Caveman](https://github.com/JuliusBrussee/caveman): makes your coding agent talk like a caveman to save tokens
 - [AI Job Search](https://github.com/MadsLorentzen/ai-job-search): Claude Code workflow that finds jobs, tailors your CV and cover letter, and preps you for interviews
+
+## Free open-source alternatives
+
+[Mann Bellani](https://github.com/Blueturboguy07) clones paid apps and open-sources them for free. Some of his:
+
+- [cue](https://github.com/Blueturboguy07/cue): free Cluely, an AI copilot that sees and hears your meetings and stays hidden from screen shares
+- [WhimprFlow](https://github.com/Blueturboguy07/WhimprFlow): free Wispr Flow, local voice dictation
+- [lunara](https://github.com/Blueturboguy07/lunara): free Flo, a private cycle and fertility tracker
+- [publikclip](https://github.com/Blueturboguy07/publikclip): free OpusClip, turns long videos into short vertical clips
+- [NitroAI](https://github.com/Blueturboguy07/NitroAI): turns lectures, PDFs, and videos into notes, flashcards, and quizzes
+
+His startup [Publik](https://publikhq.com) puts all of these free alternatives in one place so anyone can find and install them. The apps are free to install. You only pay for the resources you use inside them, not the software.
 
 ## Skills I've written
 
