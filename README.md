@@ -12,6 +12,9 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 - [shadcn/ui](https://ui.shadcn.com/docs/skills): shadcn components done right
 - [Supabase](https://github.com/supabase/agent-skills): Supabase and Postgres best practices
 - [Remotion](https://www.remotion.dev/docs/ai/skills): make videos in React
+
+## Other tools
+
 - [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): figure out how any app's features work and rebuild them
 
 ## Skills I've written
