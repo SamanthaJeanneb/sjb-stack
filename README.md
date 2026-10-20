@@ -28,14 +28,6 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 
 - **Instagram comment-to-DM** (Aside routine): checks my reels every 20 min and DMs the links to anyone who comments the keyword
 
-### Platforms
-
-- [n8n](https://n8n.io): open-source workflow automation with AI agents, self-hostable
-- [Zapier](https://zapier.com): connect 8,000+ apps, no code
-- [Make](https://www.make.com): visual automation builder, cheap
-- [OpenClaw](https://openclaw.ai): open-source AI assistant that runs 24/7 and handles your inbox, calendar, and tasks from WhatsApp or Telegram
-- [ManyChat](https://manychat.com): Instagram comment-to-DM and DM funnels
-
 ### Viral automation repos
 
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): makes short videos from a topic or keyword
