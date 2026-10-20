@@ -16,6 +16,8 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 ## Other tools
 
 - [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): figure out how any app's features work and rebuild them
+  
+## Skills I have written - Steal them!
 
 ### Frontend
 
