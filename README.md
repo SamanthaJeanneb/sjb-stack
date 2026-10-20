@@ -17,10 +17,6 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 
 - [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): figure out how any app's features work and rebuild them
 
-## Skills I've written
-
-Everything in this repo's folders is a skill I wrote myself.
-
 ### Frontend
 
 - [React Composition](frontend/react/react-composition.md): compound components over boolean props, JSX over config arrays, and lifted providers over state syncing. Based on Fernando Rojo's talk [Composition Is All You Need](https://www.youtube.com/watch?v=4KvbVq3Eg5w).
