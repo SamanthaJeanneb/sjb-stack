@@ -21,6 +21,7 @@ A collection of my favorite AI skills, automations, tools, APIs, workflows
 - [Motion.so](https://motion.so): AI for motion graphics, better than Hyperframes or Remotion (a bit pricey)
 - [Monid](https://monid.ai): one API key for everything you'd want an agent to do
 - [Google AI Studio](https://aistudio.google.com): a bit janky, but tons of control over image and video generation
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md): DESIGN.md files for popular brands' design systems, drop one in and your agent builds a matching UI
 
 ## Automations
 
